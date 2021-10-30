@@ -1,0 +1,13 @@
+package com.days.momentb;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MomentbNApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(MomentbNApplication.class, args);
+    }
+
+}
